@@ -4,15 +4,15 @@
 
 ## Career
 
-- **レバレジーズグループ**
+- **レバレジーズグループ**（2016/04〜2022/06）
   - Sales — レバテック ITS事業部（2016/04〜2019/06）
   - Sales — 海外事業部 / Leverages Career Singapore（2019/07〜2020/08）
   - Sales — レバレジーズメディカルケア リハ事業部（2020/09〜2020/10）
   - Web Engineer — HRテック事業部（2020/11〜2022/06）
-- **インフォメティス株式会社**
-  - Application Engineer — IoTソリューション事業部 / enenowa など（2022/07〜2024/07）
-- **identify株式会社**
-  - Full Cycle Engineer — 開発部 / DeLMO など（2024/08〜）
+- **インフォメティス株式会社**（2022/07〜2024/07）
+  - Application Engineer — IoTソリューション事業部 / enenowa など
+- **identify株式会社**（2024/08〜）
+  - Full Cycle Engineer — 開発部 / DeLMO など
 
 ### 直近 — identify株式会社（2024/08〜）
 
