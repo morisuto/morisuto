@@ -8,7 +8,7 @@
 |---|---|---|
 | 2024/08〜 | identify株式会社 | Full Cycle Engineer（動画素材プラットフォーム） |
 | 2022/07〜2024/07 | インフォメティス株式会社 | Application Engineer（エネルギーマネジメント IoT） |
-| 2016/04〜2022/06 | レバレジーズ株式会社 | Sales → Sales → Sales → Web Engineer |
+| 2016/04〜2022/06 | レバレジーズグループ | Sales（レバテック ITS事業部）<br>→ Sales（海外事業部 / Leverages Career Singapore）<br>→ Sales（レバレジーズメディカルケア リハ事業部）<br>→ Web Engineer（HRテック事業部） |
 
 ### 現職 — identify株式会社（2024/08〜）
 
