@@ -29,7 +29,7 @@
 - 検索 / 決済 / データ分析（Elasticsearch, Stripe, Redash, BigQuery）
 - AI ツール（Vertex AI, Gemini, Claude Code, CodeRabbit）
 
-## Learning
+## Study
 
 - **Waseda University**
   - Applied Physics, B.Eng.（2015/03 卒業）
