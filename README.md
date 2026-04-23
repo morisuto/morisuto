@@ -4,15 +4,15 @@
 
 ## Career
 
-- **レバレジーズグループ**（2016/04〜2022/06）
-  - Sales — レバテック ITS事業部（2016/04〜2019/06）
-  - Sales — 海外事業部 / Leverages Career Singapore（2019/07〜2020/08）
-  - Sales — レバレジーズメディカルケア リハ事業部（2020/09〜2020/10）
-  - Web Engineer — HRテック事業部（2020/11〜2022/06）
-- **インフォメティス株式会社**（2022/07〜2024/07）
-  - Application Engineer — IoTソリューション事業部 / enenowa など
 - **identify株式会社**（2024/08〜）
   - Full Cycle Engineer — 開発部 / DeLMO など
+- **インフォメティス株式会社**（2022/07〜2024/07）
+  - Application Engineer — IoTソリューション事業部 / enenowa など
+- **レバレジーズグループ**（2016/04〜2022/06）
+  - Web Engineer — HRテック事業部（2020/11〜2022/06）
+  - Sales — レバレジーズメディカルケア リハ事業部（2020/09〜2020/10）
+  - Sales — 海外事業部 / Leverages Career Singapore（2019/07〜2020/08）
+  - Sales — レバテック ITS事業部（2016/04〜2019/06）
 
 ### 直近 — identify株式会社（2024/08〜）
 
@@ -35,14 +35,14 @@
 
 ## Study
 
-- **Waseda University**
-  - Applied Physics, B.Eng.（2015/03 卒業）
-  - Physics and Applied Physics, M.Eng.（2016/03 中退）
 - **University of the People**
-  - Computer Science, Associate's degree（2021/06〜2025/11）
   - Computer Science, B.Sc.（2026/06 卒業見込み）
+  - Computer Science, Associate's degree（2021/06〜2025/11）
+- **Waseda University**
+  - Physics and Applied Physics, M.Eng.（2016/03 中退）
+  - Applied Physics, B.Eng.（2015/03 卒業）
 
-※社会人オンライン大学。業務時間外で学位を取得中
+※University of the People は社会人オンライン大学。業務時間外で学位を取得中
 
 ## Certifications
 
