@@ -10,12 +10,20 @@
 |---|---|---|
 | 2024/08〜 | identify株式会社 | Full Cycle Engineer（動画素材プラットフォーム） |
 | 2022/07〜2024/07 | インフォメティス株式会社 | Application Engineer（エネルギーマネジメント IoT） |
-| 2016/04〜2022/06 | レバレジーズ株式会社 | Sales → Engineer（IT/SES, HR Tech） |
+| 2016/04〜2022/06 | レバレジーズ株式会社 | Sales → Sales → Sales → Web Engineer |
 
 ### 現職 — identify株式会社（2024/08〜）
 
-- 広告用動画素材プラットフォーム「DeLMO for Ad」の開発
-- 企画から設計・実装・運用まで一気通貫で担当（フロント・バック・インフラ・データ分析・AI）
+広告用動画素材プラットフォーム「DeLMO for Ad」の開発。企画から設計・実装・運用まで一気通貫で担当（フロント・バック・インフラ・データ分析・AI）。
+
+#### 仕事への向き合い方
+
+- **ビジネス戦略から逆算するエンジニアリング**：3C/4P 分析や Redash でのデータ分析を踏まえ、「何を作るか」だけでなく「何を作らないか」も意思決定。限られたリソースで最大の ROI を出す開発方針を立てる。
+- **現場感のある課題解決**：元営業職の経験を活かし、ビジネスサイド（営業・CS・オペレーター）と目線を合わせて対話。プロダクト機能だけでなく、管理画面の使い勝手や運用フローまで踏み込んで改善する。
+- **目標達成に向けた愚直な実行力**：要件定義から運用まで一気通貫で牽引。「計画を立てて自走し完遂する」姿勢で技術選定や改善活動を進める。
+
+#### 主な技術スタック
+
 - フロントエンド（React, TypeScript, Next.js, Apollo Client, Tailwind CSS, Turborepo）
 - バックエンド（Go, GraphQL, gqlgen, SQLBoiler）
 - インフラ（Google Cloud, Terraform, Packer）
@@ -25,12 +33,14 @@
 
 ## Learning
 
-- **Waseda University** — Applied Physics, B.Eng.（2015/03 卒業）
-  - **Waseda University Graduate School, Physics and Applied Physics Department** — Master's（2016/03 中退）
+- **Waseda University**
+  - Applied Physics, B.Eng.（2015/03 卒業）
+  - Physics and Applied Physics, M.Eng.（2016/03 中退）
 - **University of the People**
-  - Associate's degree, Computer Science（2021/06〜2025/11、GPA 3.56）
-  - B.Sc. in Computer Science（2026/06 卒業見込み）
-  - ※社会人オンライン大学。業務時間外で学位を取得中
+  - Computer Science, Associate's degree（2021/06〜2025/11、GPA 3.56）
+  - Computer Science, B.Sc.（2026/06 卒業見込み）
+
+※社会人オンライン大学。業務時間外で学位を取得中
 
 ## Certifications
 
