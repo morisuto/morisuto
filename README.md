@@ -37,7 +37,7 @@
   - Applied Physics, B.Eng.（2015/03 卒業）
   - Physics and Applied Physics, M.Eng.（2016/03 中退）
 - **University of the People**
-  - Computer Science, Associate's degree（2021/06〜2025/11、GPA 3.56）
+  - Computer Science, Associate's degree（2021/06〜2025/11）
   - Computer Science, B.Sc.（2026/06 卒業見込み）
 
 ※社会人オンライン大学。業務時間外で学位を取得中
