@@ -10,7 +10,7 @@
 | 2022/07〜2024/07 | インフォメティス株式会社 | Application Engineer（IoTソリューション事業部 / enenowa など） |
 | 2016/04〜2022/06 | レバレジーズグループ | Sales（レバテック ITS事業部）<br>→ Sales（海外事業部 / Leverages Career Singapore）<br>→ Sales（レバレジーズメディカルケア リハ事業部）<br>→ Web Engineer（HRテック事業部） |
 
-### 現職 — identify株式会社（2024/08〜）
+### 直近 — identify株式会社（2024/08〜）
 
 広告用動画素材プラットフォーム「DeLMO for Ad」の開発。企画から設計・実装・運用まで一気通貫で担当（フロント・バック・インフラ・データ分析・AI）。
 
