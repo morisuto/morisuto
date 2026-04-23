@@ -53,6 +53,10 @@
 - パターン認識 / 動画検索 / レコメンデーション
 - ビジネス戦略（3C/4P）から逆算するエンジニアリング
 
+## Writing
+
+- note: [@ren_morisuto](https://note.com/ren_morisuto) — 双子育児とスタートアップ開発の話など
+
 ## Tech Stack
 
 **Backend**
@@ -76,7 +80,3 @@
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-## Writing
-
-- note: [@ren_morisuto](https://note.com/ren_morisuto) — 双子育児とスタートアップ開発の話など
