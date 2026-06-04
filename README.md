@@ -36,10 +36,10 @@
 
 | 学校 | 学位・分野 | 期間 |
 | --- | --- | --- |
-| University of the People | Computer Science, B.Sc. | 2021/09〜2026/06（卒業見込み） |
-| University of the People | Computer Science, Associate | 2021/09〜2023/01 |
-| 早稲田大学 | 物理・応用物理 M.Eng. | 〜2016/03（中退） |
 | 早稲田大学 | 応用物理 B.Eng. | 〜2015/03 |
+| 早稲田大学 | 物理・応用物理 M.Eng. | 〜2016/03（中退） |
+| University of the People | Computer Science, Associate | 2021/09〜2023/01 |
+| University of the People | Computer Science, B.Sc. | 2021/09〜2026/06（卒業見込み） |
 
 ※ University of the People は社会人向けオンライン大学。業務時間外で学位を取得中。
 
