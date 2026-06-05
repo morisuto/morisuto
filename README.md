@@ -2,7 +2,7 @@
 
 双子パパエンジニア / Full Cycle Engineer
 
-> 物理 → 営業 → エンジニア → 一人エンジニア。遠回りに見える経歴を、**「事業戦略を実現する技術」** という一本の軸で繋いできました。
+> 物理 → 営業 → エンジニア。苦手（日本語での対人コミュニケーション・英語力・技術力など）を一つずつ克服しながら、**売上・利益の出る事業を作れる人**になるための武器を身につけてきました。
 
 ---
 
@@ -13,10 +13,10 @@
 | 時期 | 所属・学び | 役割 | その時考えていたこと |
 | --- | --- | --- | --- |
 | 〜2016 | 早稲田大学 物理・応用物理 (M.Eng 中退 / B.Eng) | 学生 | 親の意向で半強制的に進んだ修士。親の離婚後、母の負担を避け、**早く社会に出て稼ぐ**選択 |
-| 2016–2020 | レバレジーズ（レバテック → 海外事業部 / Singapore → リハ事業） | Sales | 営業でITエンジニア・取引先のIT企業と関わるうちITに魅了。10→100 / 0.5→0.9 / 0→1 の各フェーズの営業を経験し、**自分はエンジニアの方が向いている**と気づいた |
-| 2020–2022 | レバレジーズ HRテック事業部 | Web Engineer | **念願のITエンジニアへ**。体系的に基礎を学び、将来の海外ビザも見据えて2021/09にUoPeople入学 |
-| 2022–2024 | インフォメティス（IoTソリューション / enenowa） | Application Engineer | 取引先の要望に沿ったトップダウンな開発が多く、関心もバックエンドに寄っていったため、**バックエンドにコミットできる環境へ** |
-| 2024〜 | identify（DeLMO for Ad） | Full Cycle Engineer | 動画 × 検索領域で **0→1, 1→10** を経験。大規模データを扱いつつ、開発・PM・分析・採用に越境中 |
+| 2016〜2020 | レバレジーズ（レバテック → 海外事業部 / Singapore → リハ事業） | Sales | 10→100 / 0.5→0.9 / 0→1 の各フェーズの営業を経験し、苦手だったコミュニケーション力・ロジカルシンキングが身についたので、**元々の強みである理系を活かす職に戻ることを決意** |
+| 2020〜2022 | レバレジーズ HRテック事業部 | Web Engineer | **ITエンジニアへ転向**。バックエンド・フロントエンドと少しずつ業務（応用）を覚えながら、体系的に基礎を学び、将来の海外ビザも見据えて2021/09にUoPeople入学 |
+| 2022〜2024 | インフォメティス（IoTソリューション / enenowa） | Application Engineer | エンジニア兼開発PM兼スクラムマスターを担当。取引先の要望に沿ったトップダウンな開発が多く、関心もバックエンドに寄っていったため、**バックエンドにコミットできる環境へ** |
+| 2024〜 | identify（DeLMO for Ad） | Full Cycle Engineer | 動画 × 検索領域で **0→1, 1→10** の開発を経験。大量データを扱いつつ、開発・PdM・分析・採用に越境中 |
 
 ---
 
@@ -26,9 +26,9 @@
 
 | 向き合い方 | 中身 |
 | --- | --- |
-| 🎯 戦略から逆算 | エンジニアリングを「事業戦略を実現する戦術」と捉え、売上・競合優位に繋がる実装を見極める |
-| 🌐 越境する担当領域 | フロント / バック / インフラを軸に、機械学習・データ分析・採用にも半歩越境 |
-| 🔁 Full Cycle × AI | 企画〜改善まで一気通貫。Claude Code / Codex / Devin / CodeRabbit を適材適所で活用 |
+| 戦略から逆算 | エンジニアリングを「事業戦略を実現する戦術」と捉え、売上・競合優位に繋がる実装を見極める |
+| 越境する担当領域 | フロント / バック / インフラを軸に、機械学習・データ分析・採用にも半歩越境 |
+| Full Cycle × AI | 企画〜改善まで一気通貫。Claude Code / Codex / Devin / CodeRabbit を適材適所で活用 |
 
 ---
 
@@ -62,11 +62,11 @@
 | 領域 | 技術 |
 | --- | --- |
 | Frontend | React, TypeScript, Next.js, Apollo Client, Tailwind CSS, Turborepo |
-| Backend | Go, GraphQL, gqlgen, SQLBoiler, Node.js, Python |
+| Backend | Go, GraphQL, gqlgen, SQLBoiler, Node.js, NestJS, Python |
 | Infra / Cloud | Google Cloud, Terraform, Packer, Docker |
 | 動画処理 | FFmpeg, NVENC, H.264/H.265, CUDA |
-| 検索 / 決済 / データ | Elasticsearch, Stripe, Redash, BigQuery |
-| AI | Vertex AI, Gemini, Claude Code, CodeRabbit |
+| 検索 / 決済 / データ | Elasticsearch, Algolia, Stripe, Redash, BigQuery |
+| AI | Vertex AI, Gemini CLI, Claude Code, Codex, v0, CodeRabbit |
 
 ---
 
@@ -82,4 +82,3 @@ note: [@ren_morisuto](https://note.com/ren_morisuto) — 双子育児とスタ�
 
 - LinkedIn: [ren-suyama](https://www.linkedin.com/in/ren-suyama-9250a9174/)
 - X: [@ren_morisuto](https://x.com/ren_morisuto)
-- note: [@ren_morisuto](https://note.com/ren_morisuto)
