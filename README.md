@@ -34,12 +34,13 @@
 
 ## 🎓 Study
 
-| 学校 | 学位・分野 | 期間 |
-| --- | --- | --- |
-| 早稲田大学 | 応用物理 B.Eng. | 〜2015/03 |
-| 早稲田大学 | 物理・応用物理 M.Eng. | 〜2016/03（中退） |
-| University of the People | Computer Science, Associate | 2021/09〜2023/01 |
-| University of the People | Computer Science, B.Sc. | 2021/09〜2026/06（卒業見込み） |
+| 学校 | 学部・学科 | 学位 | 期間 |
+| --- | --- | --- | --- |
+| 早稲田大学 | 先進理工学部 応用物理学科 | Bachelor of Engineering（卒業） | 2011/04〜2015/03 |
+| 早稲田大学大学院 | 先進理工学研究科 物理及応用物理学専攻 | Master of Engineering（中退） | 2015/04〜2016/03 |
+| University of the People | Computer Science | Associate's degree（取得） | 2021/09〜2023/01 |
+| University of the People | Computer Science | Bachelor of Science（卒業見込み） | 2021/09〜2026/06 |
+| ??? | ??? | ???（入学予定） | 2026/09〜 |
 
 ※ University of the People は社会人向けオンライン大学。業務時間外で学位を取得中。
 
