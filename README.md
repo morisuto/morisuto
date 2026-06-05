@@ -61,11 +61,11 @@
 | 領域 | 技術 |
 | --- | --- |
 | Frontend | React, TypeScript, Next.js, Apollo Client, Tailwind CSS, Turborepo |
-| Backend | Go, GraphQL, gqlgen, SQLBoiler, Node.js, Python |
+| Backend | Go, GraphQL, gqlgen, SQLBoiler, Node.js, NestJS, Python |
 | Infra / Cloud | Google Cloud, Terraform, Packer, Docker |
 | 動画処理 | FFmpeg, NVENC, H.264/H.265, CUDA |
-| 検索 / 決済 / データ | Elasticsearch, Stripe, Redash, BigQuery |
-| AI | Vertex AI, Gemini, Claude Code, CodeRabbit |
+| 検索 / 決済 / データ | Elasticsearch, Algolia, Stripe, Redash, BigQuery |
+| AI | Vertex AI, Gemini, Claude Code, Codex, CodeRabbit |
 
 ---
 
@@ -81,4 +81,3 @@ note: [@ren_morisuto](https://note.com/ren_morisuto) — 双子育児とスタ�
 
 - LinkedIn: [ren-suyama](https://www.linkedin.com/in/ren-suyama-9250a9174/)
 - X: [@ren_morisuto](https://x.com/ren_morisuto)
-- note: [@ren_morisuto](https://note.com/ren_morisuto)
